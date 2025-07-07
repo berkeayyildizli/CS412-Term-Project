@@ -1,4 +1,4 @@
-# Bug Severity Prediction using Machine Learning
+# Bug Severity Prediction using Machine Learning - CS412 Term Project
 
 This repository contains the source code and report for our **CS412 - Machine Learning** Term Project at **Sabancı University** (Spring 2023-2024).
 
